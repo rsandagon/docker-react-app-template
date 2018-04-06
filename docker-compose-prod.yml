@@ -1,0 +1,11 @@
+version: '3.5'
+
+services:
+
+  sample-app-prod:
+    container_name: docker-reat-app-template-prod
+    build:
+      context: .
+      dockerfile: Dockerfile-prod
+    ports:
+      - '80:80'
