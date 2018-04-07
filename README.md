@@ -49,5 +49,9 @@ server {
 }
 ```
 
+## Deploy
+[How to deploy to AWS](https://github.com/julianespinel/stockreader/wiki/Deploy-to-AWS-using-docker-machine-and-docker-compose)
+
 ### This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)
 ### with the help from M. Herman's [article](http://mherman.org/blog/2017/12/07/dockerizing-a-react-app/)
+
